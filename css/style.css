@@ -1,0 +1,51 @@
+body{
+    background-color: #24353F;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+h1{
+    color: #17A2B8;
+}
+
+
+.box{
+    box-shadow: 0 0 54px -9px black;
+}
+
+
+input{
+    width: 100%;
+    color: white !important;
+    background-color: transparent !important;
+}
+
+.input-onClick{
+    border-color: #17A2B8;
+    box-shadow: 0 0 0px transparent !important;
+}
+
+
+
+::placeholder{
+    color: rgba(255, 255, 255, 0.623) !important;
+}
+
+
+p a{
+    text-decoration: none;
+    color: white;
+}
+
+
+a:hover{
+    text-decoration: underline;
+}
+
+
+
+
+
+
+nav{
+    background-color: #24353F;
+}
